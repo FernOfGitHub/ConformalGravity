@@ -1,0 +1,10 @@
+# LibreOffice lock files (created while a document is open)
+.~lock.*#
+
+# Temporary files left by LibreOffice conversions
+*.tmp
+
+# Git and OS clutter
+Thumbs.db
+desktop.ini
+.DS_Store
